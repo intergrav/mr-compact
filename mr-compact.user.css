@@ -2,7 +2,7 @@
 @name           Modrinth Compact
 @namespace      github.com/intergrav
 @homepageURL    https://github.com/intergrav/mr-compact
-@version        1.0.1
+@version        1.0.2
 @description    Makes Modrinth site more compact by using a condensed font and reducing padding and corner rounding, along with some other visual changes
 @author         intergrav
 @updateURL      https://github.com/intergrav/mr-compact/raw/main/mr-compact.user.css
@@ -95,7 +95,6 @@
 		border-radius: 8px;
 		padding: .2rem 0.5rem;
 	}
-	.paginate {}
 	.nav-indicator {
 		border-radius: 0px !important;
 	}
